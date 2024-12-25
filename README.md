@@ -8,6 +8,7 @@ I'm a passionate **data scientist, machine learning enthusiast, and software dev
 - 📊 **Data Visualization & Analysis**: Exploring resampling techniques, custom indicator calculations, and time-series analysis.  
 - 🌍 **Open Source Contributions & Learning**: Actively learning through courses like CS50x, CS109x, and edX's Data Science and Machine Learning program.
 
-I’m documenting my learning journey daily on [Kaggle](https://www.kaggle.com/ouztra) and adding new projects regularly to share my progress.
-Currently developing a trading algorithm and preparing to share it on GitHub, making it accessible to everyone.
+Currently developing a **trading algorithm** and preparing to share it on GitHub, making it accessible to everyone.
+
+I’m documenting my learning journey daily on [Kaggle](https://www.kaggle.com/ouztra) and adding new projects regularly to share my progress.  
 Feel free to connect and follow along! 🚀
