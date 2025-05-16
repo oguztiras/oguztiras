@@ -1,18 +1,20 @@
 # Hi, I'm Oguz Tiras 👋
-
-I'm a passionate **data scientist, machine learning enthusiast, and software developer** with a background in civil engineering. I transitioned to the tech industry after realizing my true calling for problem-solving and innovation in technology.
+I'm a passionate **software developer, data scientist and machine learning enthusiast** with a background in civil engineering. I transitioned to the tech industry after realizing my true calling for problem-solving and innovation in technology.
 
 ## What I Focus On
-- 🌟 **Data Science & Machine Learning**: Continuously enhancing my skills in topics like rf, gradient boosting, AdaBoost and algorithmic trading while working on practical projects.  
-- 💻 **Software Development**: Experienced in Python (Django), JavaScript, and SQL. Currently building projects incrementally to showcase on my profile.  
+- 💻 **Software Development**: Experienced in Python (Django, Flask), JavaScript, and SQL. Currently building projects incrementally to showcase on my profile. 
+- 🌟 **Data Science & Machine Learning**: Continuously enhancing my skills in topics like rf, gradient boosting and algorithmic trading while working on practical projects.   
 - 📊 **Data Visualization & Analysis**: Exploring resampling techniques, custom indicator calculations, and time-series analysis.  
-- 🌍 **Learning**: I've completed courses like CS50x, cs50ai, CS109x and edX's Data Science and Machine Learning program.
+- 🌍 **Learning**: I've completed programs like Computer Science for Web Programming, Computer Science for Artificial Intelligence and Data Science and Machine Learning from HarvardX.
 
-## Featured Project
-[TuneMentor](https://www.github.com/oguztiras/melodify) – A Django-based web app. It allows professionals to manage appointments and users to book and leave feedback. (Feel free to check it out and leave feedback!)
+## Featured Projects
+- [Crypto Trader](https://github.com/oguztiras/crypto_trader) – A Django-based cryptocurrency algorithmic trading application for backtesting technical analysis strategies. Fetch market data, implement indicators, create strategies and backtest against historical data with an intuitive interface.
+
+- [TuneMentor](https://www.github.com/oguztiras/melodify) – A Django-based web app that allows professionals to manage appointments and users to book and leave feedback.
+
+- [Jotter](https://github.com/oguztiras/jotter) – A lightweight microblogging platform built with Flask, inspired by Twitter/X. Features user authentication, real-time interactions, and responsive design, showcasing modern web development techniques.
 
 ## Currently
-Developing a **trading algorithm** and preparing to share it on GitHub, making it accessible to everyone.
+Developing RESTful APIs with Node.js and Django REST framework, while I'm documenting my data journey on [Kaggle](https://www.kaggle.com/ouztra).  
 
-I’m documenting my learning journey daily on [Kaggle](https://www.kaggle.com/ouztra) and adding new projects regularly to share my progress.  
 Feel free to connect and follow along! 🚀
