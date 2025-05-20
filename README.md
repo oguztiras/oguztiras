@@ -2,7 +2,7 @@
 I'm a passionate **software developer, data scientist and machine learning enthusiast** with a background in civil engineering. I transitioned to the tech industry after realizing my true calling for problem-solving and innovation in technology.
 
 ## What I Focus On
-- 💻 **Software Development**: Experienced in Python (Django, Flask), JavaScript, and SQL. Currently building projects incrementally to showcase on my profile. 
+- 💻 **Software Development**: Experienced in Python (Django, Flask), JavaScript (Node.js - Express), and SQL. Currently building projects incrementally to showcase on my profile. 
 - 🌟 **Data Science & Machine Learning**: Continuously enhancing my skills in topics like rf, gradient boosting and algorithmic trading while working on practical projects.   
 - 📊 **Data Visualization & Analysis**: Exploring resampling techniques, custom indicator calculations, and time-series analysis.  
 - 🌍 **Learning**: I've completed programs like Computer Science for Web Programming, Computer Science for Artificial Intelligence and Data Science and Machine Learning from HarvardX.
