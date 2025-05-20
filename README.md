@@ -13,8 +13,10 @@ I'm a passionate **software developer, data scientist and machine learning enthu
 - [TuneMentor](https://www.github.com/oguztiras/melodify) – A Django-based web app that allows professionals to manage appointments and users to book and leave feedback.
 
 - [Jotter](https://github.com/oguztiras/jotter) – A lightweight microblogging platform built with Flask, inspired by Twitter/X. Features user authentication, real-time interactions, and responsive design, showcasing modern web development techniques.
+  
+- [Book Reviews](https://github.com/oguztiras/expressBookReviews) -  A server-side online book review application, integrated it with a secure REST API using JWT based session level authentication, using Promises callbacks and Async-Await functions. (Forked from ibm-developer-skills-network/expressBookReviews) 
 
 ## Currently
-Developing RESTful APIs with Node.js and Django REST framework, while I'm documenting my data journey on [Kaggle](https://www.kaggle.com/ouztra).  
+Developing applications, while I'm documenting my data journey on [Kaggle](https://www.kaggle.com/ouztra).  
 
 Feel free to connect and follow along! 🚀
