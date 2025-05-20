@@ -14,7 +14,7 @@ I'm a passionate **software developer, data scientist and machine learning enthu
 
 - [Jotter](https://github.com/oguztiras/jotter) – A lightweight microblogging platform built with Flask, inspired by Twitter/X. Features user authentication, real-time interactions, and responsive design, showcasing modern web development techniques.
   
-- [Book Reviews](https://github.com/oguztiras/expressBookReviews) -  A server-side online book review application, integrated it with a secure REST API using JWT based session level authentication, using Promises callbacks and Async-Await functions. (Forked from ibm-developer-skills-network/expressBookReviews) 
+- [Book Reviews](https://github.com/oguztiras/expressBookReviews) -  A server-side online book review Node.js - Express application, integrated it with a secure REST API using JWT based session level authentication, using Promises callbacks and Async-Await functions. (Forked from ibm-developer-skills-network/expressBookReviews) 
 
 ## Currently
 Developing applications, while I'm documenting my data journey on [Kaggle](https://www.kaggle.com/ouztra).  
